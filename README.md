@@ -15,7 +15,7 @@ After training, the model will be used to classify new, unseen images and evalua
 
 ## Neural Network Model
 
-<img width="937" height="836" alt="image" src="https://github.com/user-attachments/assets/1a0b2a5b-5aad-4744-936f-11a4ee45c913" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d43e5227-d911-4186-b071-3b68b96e5d3f" />
 
 
 ## DESIGN STEPS
